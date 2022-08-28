@@ -1,0 +1,129 @@
+  /* >>>>>>>>>>>>>>>>>>>>>>>>>>...........section1..............>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  */
+.heroimage{
+	background-color:#fcbd00;
+	padding:60px 0 110px 0;
+}
+.navbar{
+	list-style:none;
+	text-align:right; 
+}
+.navbar a{
+	text-decoration:none;
+}
+.navbar li{
+	display:inline-block;
+	margin-left:35px;
+	/* margin-right:15px; */
+	/* min-width:118px; */
+}
+.navbar li:last-child a{
+	/* margin-right:0px !important; */
+	padding-right:0px !important;
+}
+.navbar a{
+	font-size:22px;
+	font-weight:bold;
+	color:#010101;
+	padding: 18px;
+	display:inline-block;
+}
+.iconlist{
+	list-style:none;
+}
+.iconlist li{
+	display:inline-block;
+	margin-right:40px;
+}
+.iconlist a i{
+	font-size:40px;
+	color:#010101;
+}
+/* .ipad{ */
+	/* margin-left:18px; */
+/* } */
+.navbar a:active, a:hover, a:focus{
+	font-weight:lighter;
+}
+.ipad {
+    text-align: center;
+    padding-left: 40px;
+}
+
+ /* >>>>>>>>>>>>>>>>>>>>>>>>>>...........section2..............>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  */
+.features{
+	padding:120px 0 80px 0;
+}
+.thumbnail{
+	margin-bottom:90px;
+}
+.thumbicon i {
+	font-size:44px;
+}
+
+.thumbcontent{
+	font-size:22px;
+	color:#010101;
+	margin-bottom:15px;
+}
+.thumbcontent p{
+	font-size:16px;
+	color:#898989;
+}
+
+ /* >>>>>>>>>>>>>>>>>>>>>>>>>>...........section3..............>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  */
+ .inTouch{
+	 background-color:#010101;
+	 padding:90px 0 140px 0;
+ }
+ .from-control{
+	 padding:20px 25px;
+	 height:50px;
+	 border-radius:5px;
+	 
+ }
+ .from-control{
+	 padding:20px 25px;
+	 height:50px;
+	 border-radius:5px;
+	 width:calc(100% - 150px);
+	 color:#898989;
+ }
+ .btn-primary{
+	 background-color:#fbdb00;
+	 height:50px;
+	 padding:15px 35px;
+	 cursor:pointer;
+	 border-radius:5px;
+	 width:125px;
+	 margin-left:20px;
+ }
+ .from-control::placeholder{
+	 color:#898989;
+	 font-size:16px;
+ }
+ .inTouch .pri-heading{
+	 color:#fbdb00;
+ }
+ 
+ .socialicon li{
+	 display:inline-block;
+	 margin-right:30px;
+	 
+ }
+.socialicon li a{
+	color: #fbdb00;
+ }
+ .socialicon li i{
+font-size:38px;
+ }
+.footerlist li,.footerlist a{
+	 font-size:16px;
+	 color:#ffffff;
+	 text-transform:capitalize;
+ } 
+ .footerlist li{
+ list-style:none;
+ }
+ .footerlist li a{
+ text-decoration:none;
+ }
