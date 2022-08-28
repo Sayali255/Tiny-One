@@ -1,4 +1,7 @@
   /* >>>>>>>>>>>>>>>>>>>>>>>>>>...........section1..............>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  */
+  body{
+	font-family: 'Roboto', sans-serif;
+  }
 .heroimage{
 	background-color:#fcbd00;
 	padding:60px 0 110px 0;
@@ -103,6 +106,7 @@
  }
  .inTouch .pri-heading{
 	 color:#fbdb00;
+	   font-family: 'Montserrat', sans-serif;
  }
  
  .socialicon li{

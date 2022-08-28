@@ -73,12 +73,14 @@ div[class^="col"]{
 	font-weight:bold;
 	color:#010101;
 	margin-bottom:20px;
+  font-family: 'Montserrat', sans-serif;
 }
 .sec-heading{
 	font-size:20px;
 	font-weight:bold;
 	color:#313841;
 	margin-bottom:22px;
+	 font-family: 'Montserrat', sans-serif;
 }
 .para{
 	font-size:16px;
